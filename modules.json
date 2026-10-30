@@ -1,0 +1,28 @@
+{
+    "modules": [
+        {
+            "name": "Introduction to computer Hardwares",
+             "hours":5
+        },
+        {
+            "name": "Computer Components and Motherboard",
+            "hours": 8
+        },
+        {
+          "name": "CPU Installation an Maintenence",
+          "hours": 6
+        },
+        {
+            "name": "Memory and Storage Device",
+            "hours": 7
+        },
+        {
+            "name": "Power Supply and Expansion Cards",
+            "hours": 5
+        },
+        {
+            "name": "Computer Troubleshooting and Maintenence",
+            "hours": 9
+        }
+    ]
+}
